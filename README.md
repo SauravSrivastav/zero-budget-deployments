@@ -1,8 +1,20 @@
 ---
 
-# Free Website Hosting Platforms and Cloud Hosting with Free Tiers
+# ZeroBudgetDeployments 🚀
 
-This document provides a comprehensive list of free website hosting platforms and cloud hosting platforms that offer free tiers. These platforms are ideal for developers looking to deploy their applications without incurring costs. Each platform has its unique features and supports various technologies and applications, making them suitable for different development needs.
+## Description
+
+Welcome to **ZeroBudgetDeployments**! 🌐 This repository is your comprehensive guide to free website hosting platforms and cloud hosting platforms that offer free tiers. Whether you're a developer looking to deploy your applications without incurring costs or a tech enthusiast exploring different hosting options, you'll find a curated list of platforms that cater to various development needs.
+
+## Features
+
+- **Free Website Hosting Platforms**: Discover platforms specifically designed for hosting web applications and static sites at no cost.
+- **Cloud Hosting with Free Tiers**: Explore cloud hosting platforms that provide a range of services with free tiers, allowing you to deploy and test your applications without incurring costs.
+
+## Table of Contents
+
+- [Free Website Hosting Platforms](#free-website-hosting-platforms)
+- [Cloud Hosting Platforms with Free Tiers](#cloud-hosting-platforms-with-free-tiers)
 
 ## Free Website Hosting Platforms
 
